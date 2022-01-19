@@ -1,5 +1,5 @@
 {
-  "_from": "git+ssh://git@github.com/r45ku1/beam-stratum-pool.git",
+  "_from": "git+ssh://git@github.com/Bling1314/beam-stratum-pool.git",
   "_id": "stratum-pool@0.2.0",
   "_inBundle": false,
   "_integrity": "",
